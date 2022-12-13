@@ -26,5 +26,6 @@
 ![중고거래](https://user-images.githubusercontent.com/81501114/207197494-3423dbbe-48aa-4f37-b7eb-7eff8bbbf0c9.png)
 
 ---
+## 관리자 페이지
 
 ![관리자모드](https://user-images.githubusercontent.com/81501114/207199226-904f38a0-c816-4be1-91f9-a7e1868379f8.png)
