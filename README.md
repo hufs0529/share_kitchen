@@ -27,3 +27,4 @@
 
 ---
 
+![관리자모드](https://user-images.githubusercontent.com/81501114/207199226-904f38a0-c816-4be1-91f9-a7e1868379f8.png)
